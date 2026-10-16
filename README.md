@@ -12,5 +12,6 @@ pd.read_csv("https://github.com/LeeChristensen1/MATH3001_datasets/blob/main/hpai
 ```
 
 # One off statistics:
-* There was one human infection from Feb 2022 to Feb 2023 in the USA which was at approximately the 20th of April 2022 (https://www.cdc.gov/bird-flu/php/technical-report/h5n1-031723.html).
+* There was one human infection from Feb 2022 to Feb 2023 in the USA which was at approximately the 20th of April 2022 (https://www.cdc.gov/bird-flu/php/technical-report/h5n1-031723.html)
 * The number of poultry farms in the USA in 2022 was 168048 (https://www.nass.usda.gov/Publications/Highlights/2024/Census22_HL_Poultry.pdf)
+* The number of wild birds is approximately 7.2 billion (https://www.science.org/doi/10.1126/science.aaw1313?referrer=https%3A%2F%2Fwww.instagram.com%2F)
